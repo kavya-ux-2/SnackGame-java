@@ -1,7 +1,8 @@
 # 🐍 Enhanced Snake Game
 
 A modern implementation of the classic Snake game built with Java Swing, featuring enhanced graphics, progressive difficulty, and a web-compatible HTML5 version.
-
+#ScreenShot
+![image](https://github.com/kavya-ux-2/SnackGame-java/blob/3592b59891aafc020b4f00ca898a291c61526cbf/Screenshot%202025-05-30%20205319.png)
 ## ✨ Features
 
 - **Enhanced Graphics**: Snake with animated eyes, gradient body segments, and glowing food effects
